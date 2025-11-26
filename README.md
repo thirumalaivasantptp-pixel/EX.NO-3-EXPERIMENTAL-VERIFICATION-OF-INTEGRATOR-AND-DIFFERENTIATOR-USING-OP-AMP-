@@ -63,8 +63,8 @@ We get , R1 =	and hence Rf =
 ## TABULATION
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+| Sine Wave      | 940v                         |1ms                             |    1KHZ                       |           2.96V                |                  1MS            |          1KHZ                  |
+| Square Wave    |              980v            |       1ms                      |        1KHZ                   |     6.32V                      |       1MS                       |           1KHZ                 |
 		
 
 ---
@@ -151,8 +151,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  ## TABULATION
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+| Sine Wave      |            1.28              |   1                          |          1                 |   5.60                        |                  1            |             1               |
+| Square Wave    |                1.42          |     1                        |           1                |         20.40                  |           1                   |           1                 |
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
