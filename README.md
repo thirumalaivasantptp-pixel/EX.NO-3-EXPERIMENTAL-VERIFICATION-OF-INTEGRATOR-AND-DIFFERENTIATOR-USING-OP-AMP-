@@ -1,8 +1,7 @@
-3. ##**EX.NO:
-** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
+## EX.NO:3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE:**  
-             3A INTEGRATOR
+ 
+##  3A INTEGRATOR
 ---
 
 ## AIM
@@ -70,11 +69,12 @@ We get , R1 =	and hence Rf =
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="927" height="1280" alt="image" src="https://github.com/user-attachments/assets/16c13505-836c-4b64-b396-7e38808b5414" />
 
 
 ---
-**DATE:**  
-             3 B DIFFERENTIATOR
+  
+## 3 B DIFFERENTIATOR
 ---
 
 ## AIM
@@ -156,10 +156,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="911" height="1280" alt="image" src="https://github.com/user-attachments/assets/a33c869e-ca27-4024-a831-59c1edbcf261" />
 
 ---
 
-RESULT:
+## RESULT:
+
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 ---
 
